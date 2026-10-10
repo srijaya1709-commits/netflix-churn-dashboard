@@ -2,7 +2,8 @@
 
 An interactive Power BI dashboard analyzing Netflix customer churn by subscription plan, churn reason, satisfaction score, and quarterly trend.
 
-![Dashboard](dashboard.png)
+<img width="961" height="538" alt="image" src="https://github.com/user-attachments/assets/96dbc755-448f-4a00-b107-04a1a4e70a7e" />
+
 
 ## Key Insight
 Price is the top churn reason, and the Basic plan loses the most customers, so pricing and plan value are key retention areas.
