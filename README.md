@@ -9,10 +9,11 @@ An interactive Power BI dashboard analyzing Netflix customer churn by subscripti
 Price is the top churn reason, and the Basic plan loses the most customers, so pricing and plan value are key retention areas.
 
 ## Tools Used
-Power BI, Excel, DAX [remove if not used]
+Power BI, Excel, DAX 
 
 ## Dataset
-[Name and link of the source, number of rows and columns]
+Netflix Customer Churn & Engagement Dataset
+link:https://www.kaggle.com/datasets/vanshhala/netflix-customer-churn-and-engagement-dataset
 
 ## What I Did
 - Cleaned and prepared the data
